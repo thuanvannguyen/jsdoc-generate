@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jsdoc": "jsdoc -c jsdoc.json"
+  },
+  "author": "thuannguyen van",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.3"
+  }
+}
